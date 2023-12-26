@@ -1,7 +1,7 @@
 #ifndef test
 #define test
 
-#include "../binance_bybit_arb/utils/Binance_Websocket_Exchange.h"
+#include "Binance_WebSocket_Exchange.h"
 
 string remove_quotes_around_id_in_json_string(string &s){
 
