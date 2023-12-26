@@ -148,12 +148,12 @@ int main() {
 // }
 
 
-/*#include "test.hpp"
+#include "test.hpp"
 int main()
 {
     string coin = "bnbusdt";
     get_bin_partial_orderbook(coin);
     return 0;
-}*/
+}
 
 
